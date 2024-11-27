@@ -1,6 +1,7 @@
 # Air Quality Monitoring Station Density Analysis
 
-This project analyzes the density of PM10 monitoring stations across different countries using public air quality data.
+This script analyzes the density of PM10 monitoring stations across different countries using public air quality data.
+It is a part of my application to the Air Quality Scientist role at the Centre for Research on Energy and Clean Air (CREA).
 
 
 ## Features
@@ -14,7 +15,7 @@ This project analyzes the density of PM10 monitoring stations across different c
 
 1. Clone the repository
 ```bash
-git clone <url>.
+git clone https://github.com/Phinart98/CREA-Application-Task.git.
 ```
 2. Create and activate virtual environment
 ```bash
